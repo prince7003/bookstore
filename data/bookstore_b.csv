@@ -1,0 +1,31 @@
+isbn,name,writer,category,cost,avg_score,total_reviews,units_sold,store_name
+978-10001,Book_B_1,R. Martin,Science Fiction,27.87,3.8,429,625,LitWorld
+978-10002,Book_B_2,A. Clarke,Psychology,6.98,3.4,249,1204,LitWorld
+978-10003,Book_B_3,M. Atwood,Fantasy,20.32,4.1,262,246,LitWorld
+978-10004,Book_B_4,A. Clarke,Fantasy,29.66,3.0,77,1077,BookHive
+978-10005,Book_B_5,S. Hawke,Mystery,29.11,4.0,421,1770,BookHive
+978-10006,Book_B_6,B. Cornwell,Science Fiction,29.81,4.2,94,1063,LitWorld
+978-10007,Book_B_7,B. Cornwell,Fantasy,6.7,4.5,129,382,LitWorld
+978-10008,Book_B_8,R. Martin,Fantasy,28.79,3.1,26,1504,BookHive
+978-10009,Book_B_9,S. Hawke,Mystery,5.45,4.0,50,1637,LitWorld
+978-10010,Book_B_10,B. Cornwell,Romantic,11.24,4.8,311,1040,LitWorld
+978-10011,Book_B_11,D. Ariely,Science Fiction,25.25,3.6,121,606,LitWorld
+978-10012,Book_B_12,D. Ariely,Historical,25.81,4.1,199,1439,LitWorld
+978-10013,Book_B_13,A. Clarke,Historical,10.94,4.7,78,1841,LitWorld
+978-10014,Book_B_14,A. Clarke,Fantasy,26.46,3.2,310,154,LitWorld
+978-10015,Book_B_15,R. Martin,Historical,8.46,3.1,188,185,LitWorld
+978-10016,Book_B_16,S. Hawke,Mystery,15.09,4.5,11,418,BookHive
+978-10017,Book_B_17,A. Clarke,Mystery,7.81,3.5,268,1719,LitWorld
+978-10018,Book_B_18,R. Martin,Science Fiction,17.16,4.5,31,120,BookHive
+978-10019,Book_B_19,D. Ariely,Historical,26.6,3.2,382,1748,LitWorld
+978-10020,Book_B_20,D. Ariely,Mystery,24.24,3.1,308,401,BookHive
+978-10021,Book_B_21,B. Cornwell,Fantasy,22.66,3.9,386,1149,BookHive
+978-10022,Book_B_22,M. Atwood,Romantic,27.2,4.6,15,1824,LitWorld
+978-10023,Book_B_23,M. Atwood,Historical,11.82,4.5,344,1641,BookHive
+978-10024,Book_B_24,S. Hawke,Historical,23.69,4.0,246,1894,BookHive
+978-10025,Book_B_25,D. Ariely,Historical,21.38,4.6,330,1139,LitWorld
+978-10026,Book_B_26,R. Martin,Mystery,24.97,4.4,469,139,LitWorld
+978-10027,Book_B_27,D. Ariely,Science Fiction,20.02,4.8,200,547,LitWorld
+978-10028,Book_B_28,M. Atwood,Mystery,21.26,3.3,142,1334,BookHive
+978-10029,Book_B_29,R. Martin,Fantasy,12.16,4.8,475,531,LitWorld
+978-10030,Book_B_30,A. Clarke,Historical,5.27,3.3,319,123,BookHive
