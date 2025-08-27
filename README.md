@@ -1,6 +1,6 @@
-# 📚 Bookstore-QA  
+# 📚 Bookstore 
 
-Bookstore-QA is a simple project that demonstrates how to generate synthetic bookstore data, query it using natural language, and process queries via the **Groq API**.  
+Bookstore is a simple project that demonstrates how to generate synthetic bookstore data, query it using natural language, and process queries via the **Groq API**.  
 
 ---
 
